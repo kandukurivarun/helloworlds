@@ -1,1 +1,2 @@
-This is the new feature to enable camera on our mobile application
+This is the new feature to enable camera on our mobile applicationi
+Added the snapshot for video
