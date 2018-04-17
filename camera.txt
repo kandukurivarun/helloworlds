@@ -1,0 +1,1 @@
+This is the new feature to enable camera on our mobile application
