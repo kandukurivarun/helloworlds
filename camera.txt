@@ -1,2 +1,3 @@
 This is the new feature to enable camera on our mobile applicationi
 Added the snapshot for video
+Added the new panorama feature to the camera
