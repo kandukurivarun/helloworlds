@@ -3,3 +3,4 @@ Added the snapshot for video
 Added the new panorama feature to the camera
 Added the slowmotion for video
 Fixed a bug with snapshot feature
+Added the timelapse to camera
